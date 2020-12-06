@@ -1,0 +1,197 @@
+tweet_text,tag,class,polarity
+  Excellently.. it keep us busy during the lockdown. But the network is poor and the system can't handle much data at a time ,fuolms,neutral,0.22500000000000003
+ It was okay ,fuolms,positive,0.5
+ It was okay ,fuolms,positive,0.5
+" It was okay, just the network issue ",fuolms,neutral,0.5
+ Quite okay to some certain extents ,fuolms,neutral,0.35714285714285715
+" It was fair, but It is not really useful for some courses with calc. like maths, phy and the likes anyway ",fuolms,negative,0.27499999999999997
+ It's was okay ,fuolms,positive,0.5
+" Aside from the network issues, it's quite okay ",fuolms,neutral,0.5
+ It was fair ,fuolms,positive,0.7
+ It worked well for me. Even if network issues attempted to sabotage some of the lectures. ,fuolms,neutral,0.0
+" It was okay. Though, I didn't get to attend class really well but I was able to go back to what we were taught.",fuolms,positive,0.3
+ It worked well. The only issue I had was that it kept logging me out during lectures ,fuolms,neutral,0.0
+" Well, not bad ",fuolms,positive,0.3499999999999999
+ Not bad ,fuolms,positive,0.3499999999999999
+ It worked well though aside from the network,fuolms,neutral,0.0
+ Not too bad ,fuolms,positive,-0.6999999999999998
+  Very poor,fuolms,negative,-0.52
+ Not bad ,fuolms,positive,0.3499999999999999
+" It was fair. On one hand, network issue and on the other, teaching calculations was a little difficult ",fuolms,neutral,-0.02812500000000001
+" Well... Aside from the network issues, it was quite okay ",fuolms,neutral,0.5
+ Good ,fuolms,positive,0.7
+ Pretty good ,fuolms,positive,0.475
+ It was Fair enough since it helped us in moving forward on our syllabus but I still encountered some network issues,fuolms,neutral,0.35
+ Average ,fuolms,neutral,-0.15
+ It was fair ,fuolms,positive,0.7
+ It was okay ,fuolms,positive,0.5
+ Excellently ,fuolms,positive,1.0
+ Annoying ,fuolms,negative,-0.8
+ It really worked well ,fuolms,positive,0.2
+ No issues ,fuolms,positive,0.0
+ No issues ,fuolms,positive,0.0
+ It's was alright ,fuolms,positive,0.0
+ Network issues ,fuolms,negative,0.0
+ It's okay ,fuolms,positive,0.5
+ It wasn't bad ,fuolms,positive,-0.6999999999999998
+" It went well, especially the courses where by the lectures made use of audio to support the pdf file sent to the LMS ",fuolms,positive,0.0
+ It was fair. ,fuolms,positive,0.7
+ It was okay ,fuolms,positive,0.5
+ Aside the clumsiness and disappearing of previous chats when it logs one off everything else seemed pretty much okay. ,fuolms,neutral,0.19444444444444445
+ It worked well ,fuolms,positive,0.0
+ Not too bad ,fuolms,positive,-0.6999999999999998
+ It was not that bad ,fuolms,positive,-0.6999999999999998
+ Not bad ,fuolms,positive,0.3499999999999999
+ Not that bad ,fuolms,positive,-0.6999999999999998
+ It worked well except network issues ,fuolms,neutral,0.0
+ Aside from the logging in and out it wasn't that bad ,fuolms,neutral,-0.6999999999999998
+ It worked well for me ...just the network issue ,fuolms,neutral,0.0
+ It worked well aside from the clumsiness... showing when someone logs in or off because it interfere with lectures ,fuolms,neutral,0.0
+ It's perfectly ok ,fuolms,positive,0.5
+ It worked well for me except for network problem ,fuolms,neutral,0.0
+ It's fair enough ,fuohostel,positive,0.35
+ Hostel service is fair. At least we survived. ,fuohostel,positive,0.19999999999999998
+ It's fair  ,fuohostel,positive,0.7
+ Not all the rooms are okay. Then the bathrooms and toilets need repairs ,fuohostel,negative,0.5
+ Fair ,fuohostel,positive,0.7
+ Can be improved upon. ,fuohostel,neutral,0.0
+ Seems okay to some extent....but some of the bathrooms need to be fixed ,fuohostel,neutral,0.3
+ It's okay but they just gotta fix some of the bathrooms.,fuohostel,neutral,0.5
+ Not too poor ,fuohostel,positive,-0.4
+ Fair ,fuohostel,neutral,0.7
+ It is not bad ,fuohostel,positive,0.3499999999999999
+  fair,fuohostel,positive,0.7
+ Pretty good ,fuohostel,positive,0.475
+ It's okay and can still be improved ,fuohostel,positive,0.5
+ It's okay to some extent ,fuohostel,positive,0.5
+ Manageable ,fuohostel,positive,0.0
+ Poor ,fuohostel,negative,-0.4
+" To some extent, it is ok ",fuohostel,positive,0.5
+ It's not that bad. Cool,fuohostel,positive,-0.17499999999999993
+ Not bad ,fuohostel,positive,0.3499999999999999
+ The service is ok ,fuohostel,positive,0.5
+ The maintainance is actually top-notch in terms of average consistency ,fuohostel,positive,0.425
+ Not too comfortable but fair. ,fuohostel,neutral,0.55
+ It's okay ,fuohostel,positive,0.5
+ It's seems fine to some extent ,fuohostel,neutral,0.4166666666666667
+ Not bad ,fuohostel,positive,0.3499999999999999
+ Manageable ,fuohostel,positive,0.0
+ Just there ,fuohostel,neutral,0.0
+ They are really trying ,fuohostel,positive,0.2
+ Just there ,fuohostel,neutral,0.0
+ Sometimes its better sometimes its annoying ,fuohostel,neutral,-0.15000000000000002
+ Not very okay but fine ,fuohostel,neutral,0.1121794871794872
+ It's not so bad ,fuohostel,positive,-0.6999999999999998
+ It's fine and conducive ,fuohostel,positive,0.4166666666666667
+ Terrible  ,fuohostel,negative,-1.0
+ Fair enough ,fuohealth,positive,0.35
+ Just fair.There's room for improvement ,fuohealth,neutral,0.0
+ No problem ,fuohealth,positive,0.0
+" It's not bad, but still need improvement ",fuohealth,neutral,0.3499999999999999
+ Well. Average. ,fuohealth,positive,-0.15
+ No problem ,fuohealth,positive,0.0
+" None, whatsoever. ",fuohealth,positive,0.0
+ The health workers there are really trying ,fuohealth,positive,0.2
+ It's okay ,fuohealth,positive,0.5
+ Not bad ,fuohealth,positive,0.3499999999999999
+ Fair ,fuohealth,positive,0.7
+ No problem ,fuohealth,positive,0.0
+  poor documentation,fuohealth,negative,-0.4
+" Fair, but there's a lot to be improved ",fuohealth,neutral,0.7
+ No issues ,fuohealth,positive,0.0
+ Fair ,fuohealth,positive,0.7
+" It is fair, but they need to improve ",fuohealth,neutral,0.7
+ Fair,fuohealth,positive,0.7
+ It's okay ,fuohealth,positive,0.5
+ It's pretty okay ,fuohealth,positive,0.375
+ They're trying but they should be more improvements. ,fuohealth,positive,0.5
+ No issue at all ,fuohealth,positive,0.0
+ Its not bad ,fuohealth,positive,0.3499999999999999
+ Fair enough ,fuohealth,positive,0.35
+ It's fine ,fuohealth,positive,0.4166666666666667
+ Okay ,fuohealth,positive,0.5
+ No issues ,fuohealth,positive,0.0
+ It's okay ,fuohealth,positive,0.5
+ Okay ,fuohealth,positive,0.5
+ It's okay ,fuohealth,positive,0.5
+ Not that bad ,fuohealth,positive,-0.6999999999999998
+ Fair    ,fuohealth,positive,0.7
+ None. It's pretty good ,fuohealth,positive,0.475
+ It's okay ,fuohealth,positive,0.5
+ It's fine to me ,fuohealth,positive,0.4166666666666667
+ It's really expensive to begin with. Network failure is a pain in the *** ,fuoexam,negative,-0.4083333333333333
+ It was okay but the consumption of data and it's also time consuming ,fuoexam,negative,0.5
+ It was good ,fuoexam,positive,0.7
+" It was okay, but the consumption of data was too much ",fuoexam,negative,0.35
+ It's was okay ,fuoexam,positive,0.5
+ It was a welcome development. I can't complain. ,fuoexam,positive,0.8
+ It went well....Alhamdulillah the school decided well due to the pandemic ,fuoexam,positive,-0.125
+ It was fine ,fuoexam,positive,0.4166666666666667
+ Pretty nice but the app consumes alot of data ,fuoexam,neutral,0.425
+ It went well ,fuoexam,positive,0.0
+ It was okay but the consumption of data and printing of the exam booklets were the major challenge ,fuoexam,negative,0.28125
+  very good,fuoexam,positive,0.9099999999999999
+ O wa pa ,fuoexam,positive,0.0
+ It was ok but the zoom app consumes alot of data and network was also a major problem ,fuoexam,negative,0.28125
+ I was actually thinking it will turn out really bad but it was really good and not that stressful for me,fuoexam,positive,3.700743415417188e-17
+ Great  ,fuoexam,positive,0.8
+" Is not easy at all, issues on network and data consumption. But the idea is ok and welcome development ",fuoexam,neutral,0.36111111111111116
+ Great ,fuoexam,positive,0.8
+ It went well ,fuoexam,positive,0.0
+" It was okay but the consumption of data, printing of exam answer sheet and network were a major challenge. ",fuoexam,negative,0.28125
+" It was a good one, the school took the best PATH to avoid delay due to the pandemic ",fuoexam,positive,0.525
+" It turned out pretty much what we expected but consumes a lot of data, due to the app that was used for it. Not to talk about the stress of going to print answer booklets for different examination dates. ",fuoexam,negative,0.045
+ It was fine ,fuoexam,positive,0.4166666666666667
+ Atimes stressful due to network issue ,fuoexam,negative,-0.125
+ Great ,fuoexam,positive,0.8
+ Very very stressful ,fuoexam,negative,0.26
+ It was stressful ,fuoexam,negative,0.0
+ It went well ,fuoexam,positive,0.0
+ it was really stressful and frustrating aside network issue o,fuoexam,negative,-0.1
+ Stressful ASF ,fuoexam,negative,0.0
+ I think it was stressful not to talk of the data consumption ,fuoexam,negative,0.0
+ It went well ,fuoexam,positive,0.0
+ In my opinion it was stressful ,fuoexam,negative,0.0
+ It's okay ,fuoportal,positive,0.5
+ The FUO portal is okay too except that they don't update results especially in my department ,fuoportal,negative,0.25
+ Network issue ,fuoportal,negative,0.0
+ It takes time to load ,fuoportal,negative,0.0
+ Network/connection glitch ,fuoportal,negative,0.0
+ The portal is actually okay ,fuoportal,positive,0.5
+ Bad network ,fuoportal,negative,-0.6999999999999998
+ None. ,fuoportal,neutral,0.0
+ It's okay for me ,fuoportal,positive,0.5
+ Poor network ,fuoportal,negative,-0.4
+ Network problem most time.,fuoportal,negative,0.5
+ Connection problem ,fuoportal,negative,0.0
+ Takes time to load ,fuoportal,negative,0.0
+ Connection problem ,fuoportal,negative,0.0
+ It takes time to load ,fuoportal,negative,0.0
+  network problem,fuoportal,negative,0.0
+ It was okay ,fuoportal,positive,0.5
+ It takes time to load ,fuoportal,negative,0.0
+ It it okay ,fuoportal,positive,0.5
+ Waiting time is too long ,fuoportal,negative,-0.05
+" Apart from it taking time to load a page, It's almost highly efficient",fuoportal,neutral,0.16
+ my password only works whenever it feels like.Crap. ,fuoportal,negative,0.0
+ It takes time to load ,fuoportal,negative,0.0
+ It's good for me. ,fuoportal,positive,0.7
+ Its a very smooth portal to deal with ,fuoportal,positive,0.52
+ Poor Network ,fuoportal,negative,-0.4
+ Loading takes minutes and network issues ,fuoportal,negative,0.0
+ Network  ,fuoportal,negative,0.0
+ Network ,fuoportal,negative,0.0
+ Traffic and poor network ,fuoportal,negative,-0.4
+ Network problem ,fuoportal,negative,0.0
+ Takes time to load ,fuoportal,negative,0.0
+ Network is not good ,fuoportal,negative,-0.35
+ Network problem ,fuoportal,negative,0.0
+ Network issues ,fuoportal,negative,0.0
+ Poor network ,fuoportal,negative,-0.4
+ Network issues ,fuoportal,negative,0.0
+ Traffic and load late ,fuoportal,negative,-0.3
+The service was poor,fouportal,negative,-0.4
+The service was bad,fouportal,negative,-0.6999999999999998
+it was terrible,fouportal,negative,-1.0
+it was not good,fouportal,negative,-0.35
+They need to improve it,fouportal,negative,0.0
